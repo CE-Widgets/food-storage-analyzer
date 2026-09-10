@@ -1,0 +1,10 @@
+# This repository contains documentation and store assets only.
+*.keystore
+*.jks
+keystore.properties
+local.properties
+build/
+**/build/
+.gradle/
+*.apk
+*.aab

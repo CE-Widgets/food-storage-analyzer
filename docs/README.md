@@ -1,14 +1,12 @@
-# Browser for LoTW Documentation
+# Food Storage Analyzer documentation
 
-This directory contains documentation for Browser for LoTW.
+This directory contains public documentation, release notes, screenshots, and
+store artwork for Food Storage Analyzer.
 
-## Contents
+- [Release notes](release-notes.md)
+- [Product page](https://champagne.engineering/food-storage-analyzer)
+- [Privacy Policy](https://champagne.engineering/privacy)
+- [Terms of Service](https://champagne.engineering/tos)
 
-- [Release Notes](release-notes.md)
-- [Screenshots](screenshots/)
-- [Localized feature graphics](feature/)
-- [Product Page](https://champagne.engineering/browser-for-lotw)
-
-## Localized README checks
-
-Run `sh scripts/check-localized-readmes.sh` from the repository root after changing a localized README or its screenshot gallery.
+The Android source project and backend implementation are maintained
+separately and are not included in this public repository.
