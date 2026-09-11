@@ -37,6 +37,7 @@ stored locally on the Android device.
   <img src="docs/screenshots/add.png" alt="Food Storage Analyzer inventory input screen" width="180">
   <img src="docs/screenshots/review.png" alt="Food Storage Analyzer item review screen" width="180">
   <img src="docs/screenshots/analysis.png" alt="Food Storage Analyzer nutritional analysis" width="180">
+  <img src="docs/screenshots/suggestions.png" alt="Food Storage Analyzer ranked food suggestions" width="180">
   <img src="docs/screenshots/inventory.png" alt="Food Storage Analyzer inventory screen" width="180">
 </p>
 
