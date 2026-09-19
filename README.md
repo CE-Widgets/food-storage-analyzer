@@ -1,10 +1,7 @@
 # Food Storage Analyzer
 
-**Status:** Production<br>
-**Platform:** Android<br>
-**Current version:** `0.1.0`
-
-Android package: `champagne.engineering.fsa`
+**Status:** 🟢 Production
+**Current version:** `2026.09.11-6`
 
 ![Food Storage Analyzer feature graphic](docs/feature-graphic.png)
 

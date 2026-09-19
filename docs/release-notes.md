@@ -1,6 +1,6 @@
 # Release notes
 
-## 0.1.0 — Production
+## 2026.09.11-6 — Production
 
 - Added local food-inventory storage and review workflow.
 - Added dictate, paste, and type inventory entry.
