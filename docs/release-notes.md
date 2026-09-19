@@ -1,6 +1,6 @@
 # Release notes
 
-## 0.1.0 — Closed Alpha
+## 0.1.0 — Production
 
 - Added local food-inventory storage and review workflow.
 - Added dictate, paste, and type inventory entry.

@@ -1,6 +1,6 @@
 # Food Storage Analyzer
 
-**Status:** Closed Alpha<br>
+**Status:** Production<br>
 **Platform:** Android<br>
 **Current version:** `0.1.0`
 
@@ -51,6 +51,7 @@ contain the Android application source code.
 
 - [Release Notes](docs/release-notes.md)
 - [Documentation](docs/README.md)
+- [Google Play](https://play.google.com/store/apps/details?id=champagne.engineering.fsa)
 - [Food Storage Analyzer product page](https://champagne.engineering/food-storage-analyzer)
 - [Privacy Policy](https://champagne.engineering/privacy)
 - [Terms of Service](https://champagne.engineering/tos)
