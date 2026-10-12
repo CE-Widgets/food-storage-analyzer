@@ -5,26 +5,42 @@
 
 ![Food Storage Analyzer feature graphic](docs/feature-graphic.png)
 
-## Overview
+## Analyze your emergency food supply without building a spreadsheet
 
-Food Storage Analyzer helps you assess the nutritional coverage of stored food.
-Speak or type what you have, review the recognized items, and see which
-nutritional needs your supply covers—and where the significant gaps are.
+Food Storage Analyzer (FSA) lets you speak, paste, or type your stored-food
+inventory in plain language. FSA turns that input into an organized list,
+matches foods against USDA nutrition data, and estimates how long the supply
+can support your household.
 
-The application is designed to provide useful preliminary results even when
-some packaged foods still need clarification. Inventory and analysis state are
-stored locally on the Android device.
+Instead of spending hours building a food-storage spreadsheet, describe what
+you have&mdash;such as &ldquo;30 pounds of pinto beans,&rdquo; &ldquo;24 15-ounce cans of
+mackerel,&rdquo; or &ldquo;six cans of oysters&rdquo;&mdash;then review and correct what FSA
+understood before analysis.
+
+FSA evaluates nutritional coverage in household-days, identifies nutrients
+that limit the overall food supply, and suggests additions that may address
+identified nutritional deficiencies. USDA nutrition data covering thousands of
+foods and products allows FSA to handle inventories containing both common
+staples and less common foods.
+
+When a food match is uncertain or nutritional information is incomplete, FSA
+identifies the item for review rather than treating uncertain information as
+fact. Inventory and analysis state are stored locally on the Android device.
 
 ## Features
 
-- Dictate, paste, or type a rough food inventory
-- Review and correct recognized inventory items
-- Match items to supported generic foods when needed
+- Speak, paste, or type a food inventory in plain language
+- Build a structured inventory without manually creating a spreadsheet
+- Match inventory items against USDA nutrition data covering thousands of foods and products
+- Review and correct recognized inventory items before analysis
 - Set household size and food-storage goals
-- Analyze nutritional coverage in household-days
-- Identify major nutritional shortcomings
-- Review incomplete or unresolved item information
+- Estimate balanced nutritional coverage in household-days
+- Show coverage for individual nutrients
+- Identify nutrients that limit overall coverage
+- Suggest additions that may address identified nutritional deficiencies
+- Flag uncertain matches and incomplete nutritional information for review
 - Sort and filter the stored inventory
+- Store inventory and analysis state locally on the Android device
 - No account or registration required
 
 ## Screenshots
