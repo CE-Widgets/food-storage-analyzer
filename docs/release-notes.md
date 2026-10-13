@@ -1,5 +1,13 @@
 # Release notes
 
+## 2026.10.13-3 — Production
+
+- Added limited, content-free first-party workflow measurement for the FSA #2
+  experiment.
+- Kept repeated review edits on-device to avoid consuming backend analysis
+  requests; the final Analyze action still performs its normal server request.
+- Updated the About page to show the build's release version.
+
 ## 2026.09.11-6 — Production
 
 - Added local food-inventory storage and review workflow.

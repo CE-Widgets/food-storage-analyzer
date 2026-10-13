@@ -1,7 +1,7 @@
 # Food Storage Analyzer
 
 **Status:** 🟢 Production
-**Current version:** `2026.09.11-6`
+**Current version:** `2026.10.13-3`
 
 ![Food Storage Analyzer feature graphic](docs/feature-graphic.png)
 
